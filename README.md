@@ -1,3 +1,3 @@
-#Tiktok preview!
-[Design](https://user-images.githubusercontent.com/119471551/228128906-49810893-35a4-418d-b340-c15b5eb4b568.png)
+#Tiktok preview
+![Design](https://user-images.githubusercontent.com/119471551/228129069-0da7dbaa-2c6c-4aa0-ad73-34e13874243f.png)
 
