@@ -1,0 +1,46 @@
+.videoFooter__ticker > .ticker{
+    height: fit-content;
+    margin-left: 30px;
+    width: 60%;
+}
+.videoFooter{
+    color: white;
+    position: relative;
+    bottom: 80px;
+    margin-left: 15px;
+    line-height: 18px;
+    word-spacing: 1px;
+}
+.videoFooter p{
+    font-size: 10px;
+    margin-left: 10px;
+    font-weight: 100;
+}
+.videoFooter h3{
+    font-size: 12px;
+}
+.videoFooter__icon{
+    position: absolute;
+}
+
+ #p2{
+    margin-left: 30px;
+
+}
+.videoFooter__record{
+    height: 50px;
+    filter: invert(1);
+    position: absolute;
+    top: 10px;
+    right: 10px;
+    animation: spinTherecord infinite 5s linear;
+}
+
+@keyframes spinTheRecord{
+    from{
+        transform: rotate(0deg);
+    }
+    to{
+        transform: rotate(360deg);
+    }
+}

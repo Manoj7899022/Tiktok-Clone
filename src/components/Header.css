@@ -1,0 +1,9 @@
+._header__info{
+    display: flex;
+    justify-content: space-between;
+    padding: 30px 100px 20px 100px ;
+    background-color:cyan;
+}
+._header__info h1{
+    font-family: sans-serif;
+}
